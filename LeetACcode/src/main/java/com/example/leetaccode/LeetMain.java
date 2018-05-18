@@ -4,7 +4,8 @@ public class LeetMain {
 
     public static void main(String[] args){
 
-        System.out.print("hello world");
+        problem_101  p = new problem_101();
+        p.main();
 
     }
 }
